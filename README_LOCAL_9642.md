@@ -2,6 +2,4 @@
 
 ### Second commit 
 
-## ammend commit
-
 ## Third commit
